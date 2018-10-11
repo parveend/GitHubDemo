@@ -6,9 +6,8 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
 @EnableJpaAuditing
-public class EmployeeApplication {          
+public class EmployeeApplication {       
 
-	
 	public static void main(String as[])
 	{
 		
@@ -17,3 +16,7 @@ public class EmployeeApplication {
 	
 	
 }
+
+
+
+
